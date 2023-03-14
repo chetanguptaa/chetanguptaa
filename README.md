@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Chetan Gupta</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
