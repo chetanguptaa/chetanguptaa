@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **EmailId: chetangupta123raj@gmail.com, instagram: chetanguptaaaa**
 
-- 📄 Know about my experiences [I currently am a student](I currently am a student)
+- 📄 Know about my experiences [I currently am a student]
 
 - ⚡ A little something about me ** I enjoy movies, music, theater and I don't really use any social media but you can message me on instagram i will probably see it and i rarely use linkedIn thats why it is not here. **
 
