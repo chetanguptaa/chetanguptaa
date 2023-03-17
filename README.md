@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I currently am a student]
 
-- ⚡ Fun fact **I enjoy movies, music, theater and I don't really use any social media.**
+- ⚡ Fun fact **I enjoy movies, music, and I don't really use any social media.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
