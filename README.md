@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a lot of projects that i add on regularly when i learn something that belongs in that project**
 
-- 🌱 I’m currently learning **Terraform and Ansible**
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [www.github.com/chetanguptaa]
 
