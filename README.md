@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Gupta</h1>
-<h3 align="center">This is the heart of everything that I know and I like to share with each person who comes here, always aware of new technologies, learning with practical exercises, I am passionate about what I do, If you have questions on any subject, send me a message on any of my networks, rest assured that if I don't know how to solve your problem, I will help find the solution.</h3>
+<h3 align="center">This is the heart of everything that I know and I like to share with each person who comes here, always aware of new technologies, learning with practical exercises.</h3>
 
 - 🔭 I’m currently working on **a lot of projects that i add on regularly when i learn something that belongs in that project**
 
