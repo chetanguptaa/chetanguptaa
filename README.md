@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Docker, kubernetes, aws, nodejs**
 
-- 📫 How to reach me **EmailId: chetangupta123raj@gmail.com, instagram: chetanguptaaaa**
+- 📫 How to reach me **EmailId: chetanguptaaaa21@gmail.com, instagram: chetanguptaaaa**
 
 - 📄 Know about my experiences [I currently am a student]
 
