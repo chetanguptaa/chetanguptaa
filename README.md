@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Chetan Gupta</h1>
+<h1 align="center">Hi, I'm Chetan Gupta</h1>
 <h3 align="center">This is the heart of everything that I know and I like to share with each person who comes here.</h3>
 
 - 🔭 I’m currently working on **a lot of projects that i add on regularly when i learn something that belongs in that project**
 
-- 🌱 I’m currently learning **Everything 😏**
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [www.github.com/chetanguptaa]
 
 - 💬 Ask me about **Docker, kubernetes, aws, nodejs**
 
 - 📫 How to reach me **EmailId: chetanguptaaaa21@gmail.com, instagram: chetanguptaaaa**
-
-- 📄 Know about my experiences [I currently am a student]
-
-- ⚡ Fun fact **I enjoy movies, music, and I don't really use any social media.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
