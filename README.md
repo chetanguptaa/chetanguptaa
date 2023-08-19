@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full Stack Developement, Docker, kubernetes**
 
-- 📫 How to reach me **Website: [https://chetangupta.vercel.app/](https://chetangupta.vercel.app), EmailId: chetanguptaaaa21@gmail.com**
+- 📫 How to reach me **Website: [https://chetangupta.vercel.app](https://chetangupta.vercel.app), EmailId: chetanguptaaaa21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
