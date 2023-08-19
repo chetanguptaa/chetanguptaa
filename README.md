@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chetan Gupta</h1>
 <h3 align="center">This is the heart of everything that I know and I like to share with each person who comes here.</h3>
 
-- 🔭 I’m currently working on **making my coding skills sharp.**
+- 🔭 I’m currently working on **making my coding skills sharp**
 
 - 🌱 I’m currently learning **Web 3**
 
