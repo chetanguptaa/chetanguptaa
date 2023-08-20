@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web 3**
 
-- 👨‍💻 All of my projects are available at [www.github.com/chetanguptaa]
-
 - 💬 Ask me about **Full Stack Development** and **DevOps**
 
 - 📫 How to reach me **Website: [https://chetangupta.vercel.app](https://chetangupta.vercel.app), EmailId: chetanguptaaaa21@gmail.com**
