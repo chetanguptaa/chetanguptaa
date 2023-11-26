@@ -1,8 +1,8 @@
 
 --- 
-Website: [ 🔗 Chetan ](https://chetangupta.vercel.app)
+📫 Website: [ chetangupta ](https://chetangupta.vercel.app)
 
 ---
-Email Id: chetanguptaaaa21@gmail.com
+📧 Email Id: chetanguptaaaa21@gmail.com
 
 ---
